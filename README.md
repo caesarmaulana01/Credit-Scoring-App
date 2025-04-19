@@ -1,4 +1,4 @@
-# Aplikasi Credit Scoring App
+# Aplikasi Credit Scoring 
 
 ## Deskripsi
 
